@@ -66,8 +66,9 @@
 1. What does it mean to scale horizontally instead of vertically? Why is
    this valuable?
 1. Write a FizzBuzz solution quickly in your favorite language. There are
-   bugs. Where are they? Change it to use map on an array. Solve with the
-   modulus operator. Solve with counters. Solve with composable functions.
+   always places where the code can be improved. Where are they? Change it to 
+   use map on an array. Solve with the modulus operator. Solve with counters. 
+   Solve with composable functions.
 1. Design our Investment Manual Options system. (Really.) We'll add
    requirements as you draw the design. And then add more so you have to
    adapt.
